@@ -1,0 +1,8 @@
+﻿1. Add furniture
+O(n)
+Requires a loop to insert the item at arr[0], all the n elements will need to be shifted. N will depend on the number of elements in the array.
+
+
+2. Delete furniture
+O(n)
+When deleting the item, all the other elements need to be shifted to fill the empty space.
